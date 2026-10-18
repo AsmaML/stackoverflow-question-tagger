@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Local datasets and generated experiment artifacts
+QueryResults.csv
+cleaned_data_stackoverflow_questions.feather
+data/*.csv
+data/*.feather
